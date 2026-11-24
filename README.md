@@ -54,3 +54,15 @@ GitHub and JSONPlaceholder API responses fetched with curl and read with jq.
 
 ## Screenshots
 All supporting screenshots are in the Screenshots/ folder.
+
+## Live Website
+
+
+![Website](Screenshots/website.png)
+
+
+
+
+![Website 2](Screenshots/website_2.png)
+
+
