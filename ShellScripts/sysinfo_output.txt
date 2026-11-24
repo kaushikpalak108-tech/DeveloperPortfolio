@@ -1,0 +1,12 @@
+==============================================
+Name: Palak | Roll No: 2601730017 | Date: Tue Nov 24 12:11:05 UTC 2026
+==============================================
+CPU Model : Intel(R) Core(TM) Ultra 5 226V
+CPU Cores : 8
+Memory    : Total 7.5Gi, Used 546Mi
+Top 3 processes by CPU usage:
+  /bin/bash (CPU 12.5%)
+  /usr/lib/systemd/systemd-resolved (CPU 0.0%)
+  /usr/sbin/rsyslogd (CPU 0.0%)
+==============================================
+Report generated successfully.
