@@ -66,3 +66,15 @@ All supporting screenshots are in the Screenshots/ folder.
 ![Website 2](Screenshots/website_2.png)
 
 
+
+## Profiles
+
+
+![GitHub profile](Screenshots/github_profile.png)
+
+
+
+
+![LinkedIn profile](Screenshots/linkedin_profile.png)
+
+
